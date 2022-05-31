@@ -1,0 +1,104 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/058/015/original/happy-birthday-congratulations-banner-design-with-confetti-vector.jpg);
+    transition: all;
+    background-size: cover;
+}
+.titulo2{
+    font-family: cursive;
+    font-size: 120px;
+}
+.uu{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 75%;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    top: 120%;
+    left: 3%;
+    position: absolute;
+    border-radius: 20%;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    top: 120%;
+    right: 3%;
+    position: absolute;
+    border-radius: 20%;
+}
+.uu1{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 80%;
+}
+.uu2{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 80%;
+}
+.uu3{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 80%;
+}
+.uu4{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 80%;
+}
+.uu5{
+    background-color: lightcoral;
+    border-color: lightcoral;
+    display: flex;
+    transform: translate(-50%,-50%);
+    background: lightcoral;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    left: 80%;
+    top: 80%;
+}

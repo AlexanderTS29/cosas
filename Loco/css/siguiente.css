@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/058/015/original/happy-birthday-congratulations-banner-design-with-confetti-vector.jpg);
+    transition: all;
+    background-size: cover;
+}
+.titulo3{
+    font-family: cursive;
+    font-size: 120px;
+}
+.audio{
+    position: absolute;
+    top: 100%;
+    left: 13%;
+}
+.img{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 20%;
+    left: 6%;
+    border-radius: 15%;
+}
+.cc{
+    position: absolute;
+    font-family: cursive;
+    left: 35%;
+    top: 35%;
+    font-size: 30px;
+}
+.video{
+    position: absolute;
+    width: 420px;
+    height: 420px;
+    left: 60%;
+    top: 65%;
+    border-radius: 5%;
+}
+.img1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 100%;
+    left: 3%;
+    border-radius: 15%;
+}
